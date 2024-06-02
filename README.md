@@ -1,4 +1,4 @@
-<h1 align="center" style="color : #26B260;">Hi there 👋, I'm Alice Berthelot</h1>
+<h1 align="center" style="color: #26B260;">Hi there 👋, I'm Alice Berthelot</h1>
 <h3 align="center">A passionate developer from France</h3>
 
 - 📫 How to reach me **aliceberthelot.pro@gmail.com**

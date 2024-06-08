@@ -1,4 +1,5 @@
-<h1 align="center" style="color : red;">Hi there 👋, I'm Alice Berthelot</h1>
+<h1 align="center"><a href="https://github.com/Alice-Berthelot/Alice-Berthelot"><img src="https://readme-typing-svg.demolab.com?font=%22Work+Sans%22&pause=1000&color=18526C&random=false&width=325&lines=Hi+there!+I'm+Alice+Berthelot+%F0%9F%92%BB%F0%9F%8C%B8"/><a></h1>
+  
 <h3 align="center"><i>A passionate developer from France</i></h3>
 
 I'm currently on an intensive training with the Wild Code School (Bordeaux, France) until July, 26th 2024 : learning the basics of web development through group projects, practical exercices and technical watch. 

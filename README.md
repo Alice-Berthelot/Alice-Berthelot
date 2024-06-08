@@ -1,7 +1,8 @@
 <h1 align="center" style="color : red;">Hi there 👋, I'm Alice Berthelot</h1>
 <h3 align="center"><i>A passionate developer from France</i></h3>
 
-- Currently on intensive training with Wild Code School (Bordeaux, France) until July, 26th 2024 : learning the basics of web development through group projects, practical exercices and technical watch 
+I'm currently on intensive training with Wild Code School (Bordeaux, France) until July, 26th 2024 : learning the basics of web development through group projects, practical exercices and technical watch 
+
 - How to reach me: **aliceberthelot.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

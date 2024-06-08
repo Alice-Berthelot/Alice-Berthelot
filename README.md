@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Alice-Berthelot/Alice-Berthelot"><img src="https://readme-typing-svg.demolab.com?font=%22Work+Sans%22&pause=1000&color=18526C&random=false&width=325&lines=Hi+there!+I'm+Alice+Berthelot+%F0%9F%92%BB%F0%9F%8C%B8"/><a></h1>
+<h1 align="center"><a href="https://github.com/Alice-Berthelot"><img src="https://readme-typing-svg.demolab.com?font=%22Work+Sans%22&size=25&pause=1000&color=18526C&random=false&lines=Hi+there!+I'm+Alice+Berthelot+%F0%9F%92%BB%F0%9F%8C%B8"/><a></h1>
   
 <h3 align="center"><i>A passionate developer from France</i></h3>
 

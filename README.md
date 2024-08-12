@@ -4,7 +4,7 @@
 
 I just finished an intensive training with the Wild Code School (Bordeaux, France): learning the basics of web development through group projects, practical exercices and technical watch. 
 
-I am currently working on my final group project (PixHunt) to improve it and present it for the exam of the French professional certification 'Développeur web et web mobile', (web and web mobile development) - corresponding to a 2nd year of undergraduate studies. All these improvements are currently in a private repository and will be published once they are completed.
+I am currently working on my final group project (PixHunt) to improve it and present it for the exam of the French professional certification 'Développeur web et web mobile' (web and web mobile development) - corresponding to a 2nd year of undergraduate studies. 
 
 I am open to job opportunities (including work-study positions)! In France or abroad.
 

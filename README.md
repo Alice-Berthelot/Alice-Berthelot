@@ -2,7 +2,7 @@
   
 <h3 align="center"><i>A passionate developer from France</i></h3>
 
-I just finished an intensive training with the Wild Code School (Bordeaux, France): learning the basics of web development through group projects, practical exercices and technical watch. 
+I just finished an intensive training at the Wild Code School (Bordeaux, France): learning the basics of web development through group projects, practical exercices and technical watch. 
 
 I am currently working on my final group project (PixHunt) to improve it and present it for the exam of the French professional certification 'Développeur web et web mobile' (web and web mobile development) - corresponding to a 2nd year of undergraduate studies. 
 

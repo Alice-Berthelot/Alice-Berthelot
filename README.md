@@ -6,7 +6,7 @@
 
 After discovering my passion for coding two years ago, I completed a five-month intensive full-stack web development course at the Wild Code School (JavaScript/ReactJS/Node.js). In September 2024, **I successfully passed the exam for my professional certification in web development** (equivalent to a two-year of associate degree). I am now self-learning new languages to broaden my knowledge and improve my versatility with different technologies. 
 
-I am currently seeking a job opportunity in web development (full-stack, front-end, or back-end), either in France or abroad, on-site or remote. I am open to learning new programming languages!
+_<p align="center">I am currently seeking a job opportunity in web development (full-stack, front-end, or back-end), either in France or abroad, on-site or remote. I am open to learning new programming languages!</p>_
 
 <br/>
 

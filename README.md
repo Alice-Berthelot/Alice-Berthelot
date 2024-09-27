@@ -2,19 +2,22 @@
   
 <h3 align="center"><i>A passionate developer from France</i></h3>
 
-I just finished an intensive training at the Wild Code School (Bordeaux, France): learning the basics of web development through group projects, practical exercices and technical watch. 
+<br/>
 
-I am currently working on my final group project (PixHunt) to improve it and present it for the exam of the French professional certification 'Développeur web et web mobile' (web and web mobile development) - corresponding to a 2nd year of undergraduate studies. 
+After discovering my passion for coding two years ago, I completed a five-month intensive full-stack web development course at the Wild Code School (JavaScript/ReactJS/Node.js). In September 2024, **I successfully passed the exam for my professional certification in web development** (equivalent to a two-year of associate degree). I am now self-learning new languages to broaden my knowledge and improve my versatility with different technologies. 
 
-I am open to job opportunities (including work-study positions)! In France or abroad.
+I am currently seeking a job opportunity in web development (full-stack, front-end, or back-end), either in France or abroad, on-site or remote. I am open to learning new programming languages!
+
+<br/>
 
 - How to reach me: **aliceberthelot.pro@gmail.com**
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alice-berthelot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alice-berthelot/" height="30" width="40" /></a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> </p>

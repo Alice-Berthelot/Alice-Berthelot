@@ -4,7 +4,7 @@
 
 <br/>
 
-After discovering my passion for coding two years ago, I completed a five-month intensive full-stack web development course at the Wild Code School (JavaScript/ReactJS/Node.js). In September 2024, **I successfully passed the exam for my professional certification in web development**. After that, I carried out an **internship** in application development at the web agency Meito Tech in Bordeaux, France, where I primarily worked with **Python**, NoSQL (AWS/DynamoDB), and NextJS. I am now working on improving my skills in Python (Django) and ReactJS. 
+After discovering my passion for coding two years ago, I completed a five-month intensive full-stack web development course at the Wild Code School (JavaScript/**ReactJS**/Node.js). In September 2024, **I successfully passed the exam for my professional certification in web development**. After that, I carried out an **internship** in application development at the web agency Meito Tech in Bordeaux, France, where I mostly worked with **Python**, NoSQL (AWS/DynamoDB), and Next.js. I am now working on improving my skills in Python (Django) and ReactJS. 
 
 _<p align="center">I am currently seeking a <b>job opportunity</b> in web development (full-stack, or back-end), either in France or abroad, on-site or remote. I am open to learning new programming languages!</p>_
 

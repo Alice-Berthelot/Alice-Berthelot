@@ -14,10 +14,8 @@
 
 - How to reach me: **aliceberthelot.pro@gmail.com**
 
-<h5>A personal note</h5>
+<p>Apart from development, I'm passionate about traveling, especially solo traveling as I get to meet even more people when I'm on my own.</p>
 
-<p>I'm passionate about traveling, especially solo traveling as I get to meet even more people when I'm on my own.</p>
-<p>Some of the countries I've explored include: Taiwan, Japan, Argentina, Tanzania, Spain, Denmark, New-Zealand</p>
 
 <h5 align="left">Links</h5>
 

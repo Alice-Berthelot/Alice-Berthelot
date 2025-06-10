@@ -4,23 +4,44 @@
 
 <br/>
 
-After discovering my **passion for coding**, I completed a five-month intensive full-stack web development course at the Wild Code School (**JavaScript/ReactJS/Node.js/MySQL**). In September 2024, I successfully passed the exam for my professional certification in web development. After that, I carried out an internship in web development at the web agency Meito Tech in Bordeaux, France, where I mostly worked with **Python and NoSQL (AWS/DynamoDB)**. Learning independently since then, I have trained in **TypeScript, Next.js, Node.js, and Python/Django**. I am now developing new projects and working on deployment tools. 
-
-Previously, my life was marked by rigorous studies in Law, **four years of experience as a legal counsel** and HR manager, and **solo traveling** across different parts of the world. I'm now applying all the soft skills I developed through these life experiences in my new career as a developer.
-
-_<p align="center">I am open to new opportunities in full-stack or back-end development, either in France or abroad, on-site or remote.</p>_
+<p align="center">After discovering my passion for coding, I decided to change my career and <b>transition from Law/HR to IT Development</b>. </p>
+<p align="center">I completed a 5-month intensive full-stack web development course at the Wild Code School, in France and carried out an internship in web development at the web agency Meito Tech, in Bordeaux, France. </p>
+<p align="center">Learning independently since then, I have trained in TypeScript, Next.js, Node.js, Django, Java, Spring, architecture concepts, and deployment tools such as Docker.</p>
 
 <br/>
+
+<p><b>Current occupation:</b> open to new opportunities in full-stack or back-end development, either in France or in Europe, permanent or apprenticeship, on-site or remote</p>
 
 - How to reach me: **aliceberthelot.pro@gmail.com**
 
-- Find out more about me: **<a href="https://aliceberthelot.vercel.app/" target="blank">my bilingual portfolio</a>**
+<h5>Fun fact</h5>
 
-- Connect with me:&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/alice-berthelot/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alice-berthelot/" height="20" width="20" /></a>
-  
+<p>I'm passionate about traveling, especially solo traveling as I get to meet even more people when I'm on my own. I've put this passion temporarily on hold to focus on my career transition, but my heart is still full of travel dreams.</p>
+<p>Some of the countries I've explored include: Taiwan, Japan, Argentina, Tanzania, Spain, Denmark, New-Zealand</p>
+
+<h5 align="left">Links</h5>
+
+**<a href="https://aliceberthelot.vercel.app/" target="blank">Portfolio (EN/FR)</a>** | 
+**<a href="https://www.linkedin.com/in/alice-berthelot/" target="blank">LinkedIn</a>**
+
+ <br/>
+
+<h4 align="left">Main languages and tools</h4>
+<ul>
+  <li>Front-end: TypeScript, ReactJS, Next.js, CSS, TailwindCSS</li>
+  <li>Back-end: Java (currently learning), Spring Boot (currently learning), Node.js Express, Python</li>
+  <li>Databases: MySQL, SQLite, DynamoDB (NoSQL AWS)</li>
+  <li>Tests: Jest, Supertest, Pytest, JUnit (currently learning)
+  <li>Diverse: Docker (currently learning), GDPR (certified by the French authority CNIL), Figma</li>
+</ul>
+
 <br/>
 
-<h4 align="left">Main languages and tools:</h4>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="" target="_blank" rel="noreferrer"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwind" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> </a></p>
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a></p>
-<p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> <a href="https://excalidraw.com/" target="_blank" rel="noreferrer"> <img src="https://refer-production.s3.us-east-2.amazonaws.com/favicon/excalidraw.com/04e9e487-b1b4-4217-ac2f-7c2129fed8ce.jpg" alt="excalidraw" width="40" height="40"/></a> <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="https://audavia-formation.fr/wp-content/uploads/2020/06/SCRUM-PNG-e1591787740709.png" alt="SCRUM logo" width="60"/></a></p>
+<h4 align="left">Main projects available on GitHub</h4>
+<ul>
+  <li>Street Art Hunter: <a href="https://github.com/Alice-Berthelot/street-art-hunter">repository</a></li>
+  <li>Girondin Avocats: <a href="https://github.com/Alice-Berthelot/girondinavocats-front">front repository</a> | <a href="https://github.com/Alice-Berthelot/girondinavocats-back">back repository</a></li>
+   <li>Olivia S.: <a href="https://github.com/Alice-Berthelot/olivia">repository</a></li>
+  <li>Tea commerce: <a href="https://github.com/Alice-Berthelot/teacommerce">repository</a></li>
+  <li>Learning SOLID and MVC: <a href="https://github.com/Alice-Berthelot/java-mvc-game">repository</a></li>
+</ul>

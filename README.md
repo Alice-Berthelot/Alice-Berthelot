@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">After discovering my passion for coding, I decided to change my career and <b>transition from Law/HR to IT Development</b>. </p>
-<p align="center">I completed a 5-month intensive full-stack web development course at the Wild Code School, in France and carried out an internship in web development at the web agency Meito Tech, in Bordeaux, France. </p>
+<p align="center">I completed a 5-month intensive full-stack web development course (ReactJS, Node.js, MySQL) at the Wild Code School, in France and carried out an internship in web development (Python, AWS) at the web agency Meito Tech, in Bordeaux, France.</p>
 <p align="center">Learning independently since then, I have trained in TypeScript, Next.js, Node.js, Django, Java, Spring, architecture concepts, and deployment tools such as Docker.</p>
 
 <br/>
